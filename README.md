@@ -1,9 +1,8 @@
 
 <h1> Sejam bem-vindos!!!</h1>
 <h3>Esse é o meu repositório do Projeto Integrador Interdisciplinar.</h3>
-<h5> 
- Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG.
- </h5> 
+
+<h5> Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG. </h5> 
 
 <h2> 🎯 Objetivo </h2>
 Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
