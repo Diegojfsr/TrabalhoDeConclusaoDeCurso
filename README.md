@@ -7,6 +7,7 @@
 <h2> 🎯 Objetivo </h2>
 Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
 
+
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
  <li> Preparação do Projeto. <a href="https://">Acessar</a> </li>
