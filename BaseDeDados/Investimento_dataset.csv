@@ -1,4 +1,4 @@
-id,idade,renda,propriedadeCasa,tempoEmpregado,intensaoInvestimento,grauInvestimento,valorInvestimento,taxaJuros,situacaoInvestimento,retornoInvestimento,jaInvesteOunao,tempoInvestimento
+idade,renda,propriedadeCasa,tempoEmpregado,intensaoInvestimento,grauInvestimento,valorInvestimento,taxaJuros,situacaoInvestimento,retornoInvestimento,jaInvesteOunao,tempoInvestimento
 22,59000,RENT,123.0,PERSONAL,D,35000,16.02,1,0.59,Y,3
 21,9600,OWN,5.0,EDUCATION,B,1000,11.14,0,0.1,N,2
 25,9600,MORTGAGE,1.0,MEDICAL,C,5500,12.87,1,0.57,N,3
