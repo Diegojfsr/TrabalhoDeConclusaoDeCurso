@@ -1,4 +1,48 @@
 
+![](https://)
+
+_Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG._  
+> 🎯 Objetivo do Projeto  
+> Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
+
+---
+---
+
+### 🚦 Guia Rápido
+_Etapas para a construcao do projeto_
+<p float="center">
+
+[<img src="https://img.shields.io/badge/Escolher Projeto-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=73731436)
+[<img src="https://img.shields.io/badge/Treinar a RNA-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070026)
+[<img src="https://img.shields.io/badge/Desenvolver Backend-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070312)
+[<img src="https://img.shields.io/badge/Desenvolver Frontend-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070431)
+[<img src="https://img.shields.io/badge/Modelar BancoDeDados-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070342)
+[<img src="https://img.shields.io/badge/Deploy Projeto-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=78182091)
+[<img src="https://img.shields.io/badge/PrototipacaoV2-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070620)
+[<img src="https://img.shields.io/badge/ProdutoFinal-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=78182126)
+
+
+</p>
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
 <h1> Sejam bem-vindos!!!</h1>
 <h3>Esse é o meu repositório do Projeto Integrador Interdisciplinar.</h3>
 
@@ -20,7 +64,9 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <ol> 
+-->
 <!-- ----------------------- Minhas Anotações -------------------------------------------------------------------------------- -->
+<!--
 <details>
 <summary> <h2> 📝 Minhas Anotações </h2> </summary>
 <blockquote>
@@ -30,8 +76,10 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://"> Desenvolver um app de finanças. </a></li>
 </blockquote>
 </details>
+-->
 
 <!-- ----------------------- Links Úteis -------------------------------------------------------------------------------- -->
+<!--
 <details>
 <summary> <h2 dir="auto"> 🔗 Links Úteis  </h2> </summary>
 <blockquote>
@@ -52,8 +100,10 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.idinheiro.com.br/financaspessoais/aplicativo-para-economizar-dinheiro-10-melhores/">Aplicativo para economizar dinheiro: Conheça os 10 melhores por categoria</a></li>
 </blockquote>
 </details>
+-->
 
 <!-- ----------------------- Videos Úteis -------------------------------------------------------------------------------- -->
+<!--
 <details>
 <summary> <h2 dir="auto"> 📺 Videos Úteis </h2> </summary>
 <blockquote>
@@ -71,8 +121,10 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://www.youtube.com/watch?v=Kp_41haOVQk"> Walisson Silva - O jeito mais fácil de converter códigos do Python em arquivos executáveis. </a></li>
 </blockquote>
 </details>
+-->
 
 <!-- ----------------------- Repositórios Úteis -------------------------------------------------------------------------------- -->
+<!--
 <details>
 <summary> <h2 dir="auto"> 💼 Repositórios Úteis </h2> </summary>
 <blockquote>
@@ -81,8 +133,11 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   <li><a href="https://github.com/peixebabel/Dolar-Prediction/"> Dolar-Prediction | Regressão Linear e Exponencial de Grau 2 para prever o preço do Dólar. </a></li>
 </blockquote>
 </details>
+-->
 
  <!-- ----------------------- Cursos Úteis -------------------------------------------------------------------------------- -->
+
+<!--
 <details>
 <summary> <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2> </summary>
 <blockquote>
