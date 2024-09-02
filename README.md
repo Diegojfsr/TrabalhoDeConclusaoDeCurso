@@ -1,7 +1,7 @@
 
 ![](https://)
 
-_Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSMG._  
+_Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Projeto Integrador Interdisciplinar do IFSudesteMG._  
 > 🎯 Objetivo do Projeto  
 > Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
 
