@@ -19,7 +19,7 @@ _Etapas para a construcao do projeto_
 [<img src="https://img.shields.io/badge/Modelar BancoDeDados-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070342)
 [<img src="https://img.shields.io/badge/Deploy Projeto-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=78182091)
 [<img src="https://img.shields.io/badge/PrototipacaoV2-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=74070620)
-[<img src="https://img.shields.io/badge/ProdutoFinal-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=78182126)
+[<img src="https://img.shields.io/badge/ProjetoFinal-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/38/views/1?pane=issue&itemId=78182126)
 
 
 </p>
